@@ -44,14 +44,11 @@ Mask compliance rate was recalculated as magnitude in terms of population, but t
     ├── LICENSE
     ├── README.md
     ├── data_raw
-    │   ├── country.zip
+    │   ├── RAW_us_confirmed_cases.csv
     │   └── RAW_us_confirmed_cases.csv.zip
     ├── data_clean
-    │   ├── no_scores.csv
-    │   ├── politicians.csv
-    │   ├── populations.csv
-    │   ├── subregions.csv
-    │   ├── wp_wpds_countries_no_match.csv
-    │   └── wp_wpds_politicians_by_country.csv
-    └── data-512-a2.ipynb
+    │   └── cases_clean.csv
+    ├── visualization
+    │   └── plot.png
+    └── data-512-a4.ipynb
 ```
